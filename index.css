@@ -87,12 +87,12 @@ footer{
 	text-align: center;
 	padding: 20px;
 }
-@media only screen and (min-width: 845px) and (max-width: 1000px){
+@media (min-width: 845px) and (max-width: 1000px){
 	body{
 		font-size: 80%;
 	}
 }
-@media only screen and (min-width: 576px) and (max-width: 845px){
+@media (min-width: 576px) and (max-width: 845px){
 	body{
 		font-size: 70%;
 	}
@@ -100,7 +100,7 @@ footer{
 	
 	}
 }
-@media only screen and (min-width: 335px) and (max-width: 576px){
+@media (min-width: 335px) and (max-width: 576px){
 	body{
 		font-size: 90%;
 	}
@@ -112,7 +112,7 @@ footer{
 	}
 
 }
-@media only screen and (max-width: 335px){
+@media (max-width: 335px){
 	body{
 		font-size: 70%;
 	}
